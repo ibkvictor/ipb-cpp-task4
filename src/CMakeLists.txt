@@ -1,0 +1,1 @@
+add_library(ipb_algorithms ipb_algorithms.cpp)
